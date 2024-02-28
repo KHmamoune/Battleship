@@ -66,3 +66,9 @@ body {
   justify-content: center;
   gap: 20px;
 }
+
+.txt {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
